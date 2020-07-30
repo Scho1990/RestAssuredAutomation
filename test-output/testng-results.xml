@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4208" started-at="2020-07-26T11:53:41Z" finished-at="2020-07-26T11:53:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4208" started-at="2020-07-26T11:53:41Z" finished-at="2020-07-26T11:53:45Z">
+      <class name="PostAddBookLibrary">
+        <test-method status="PASS" signature="addBookPostAPI(java.lang.String, java.lang.String)[pri:0, instance:PostAddBookLibrary@ff5b51f]" name="addBookPostAPI" duration-ms="3427" started-at="2020-07-26T11:53:41Z" data-provider="BookData" finished-at="2020-07-26T11:53:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sant3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sant3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBookPostAPI -->
+        <test-method status="PASS" signature="addBookPostAPI(java.lang.String, java.lang.String)[pri:0, instance:PostAddBookLibrary@ff5b51f]" name="addBookPostAPI" duration-ms="381" started-at="2020-07-26T11:53:44Z" data-provider="BookData" finished-at="2020-07-26T11:53:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[san5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[san5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBookPostAPI -->
+        <test-method status="PASS" signature="addBookPostAPI(java.lang.String, java.lang.String)[pri:0, instance:PostAddBookLibrary@ff5b51f]" name="addBookPostAPI" duration-ms="351" started-at="2020-07-26T11:53:44Z" data-provider="BookData" finished-at="2020-07-26T11:53:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[san6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[san6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBookPostAPI -->
+      </class> <!-- PostAddBookLibrary -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
